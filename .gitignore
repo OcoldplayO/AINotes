@@ -1,0 +1,11 @@
+# 忽略本地 SQLite 数据库文件（防止泄露你的个人笔记数据）
+notes.db
+notes.db-journal
+config.json
+
+# 忽略编译出的 Windows 可执行文件
+*.exe
+*.exe~
+
+# 忽略本地临时配置文件
+.env
